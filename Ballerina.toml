@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.0.1"
+  export = ["mt3_22_1"]
+  name = "mt3_22_1"
+  org = "isurupiyarathnarucji"
+
